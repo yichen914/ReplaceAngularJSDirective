@@ -12,4 +12,5 @@ Below are some key steps:
  2. Dynamically create and compile another custom directive that we want to use for replacing the OOTB directive with the new scope.
  3. Replace the OOTB directive with the newly created custom directive.
 
-This solution works for me in our project. If you found any concern about it, please share your idea. Thanks.
+A sample of this solution is available in my plunker: https://embed.plnkr.co/Imx7aK/
+This solution works for me in my project. If you found any concern about it, please share your idea. Thanks.
